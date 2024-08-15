@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def canUnlockAll(boxes):
     opened_boxes = set([0])
     stack = [0]
